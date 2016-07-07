@@ -1,0 +1,12 @@
+c:\users\devon\documents\visual studio 15\Projects\FileSorter\FileSorter\bin\Debug\FileSorter.exe.config
+c:\users\devon\documents\visual studio 15\Projects\FileSorter\FileSorter\obj\Debug\FileSorter.csprojResolveAssemblyReference.cache
+c:\users\devon\documents\visual studio 15\Projects\FileSorter\FileSorter\bin\Debug\FileSorter.exe
+c:\users\devon\documents\visual studio 15\Projects\FileSorter\FileSorter\bin\Debug\FileSorter.pdb
+c:\users\devon\documents\visual studio 15\Projects\FileSorter\FileSorter\obj\Debug\FileSorter.exe
+c:\users\devon\documents\visual studio 15\Projects\FileSorter\FileSorter\obj\Debug\FileSorter.pdb
+C:\Users\Devon\Documents\Visual Studio 15\Projects\FileSorter\FileSorter\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\Devon\Documents\Visual Studio 15\Projects\FileSorter\FileSorter\bin\Debug\taglib-sharp.dll
+C:\Users\Devon\Documents\Visual Studio 15\Projects\FileSorter\FileSorter\bin\Debug\policy.2.0.taglib-sharp.config
+C:\git\FileSorter\FileSorter\bin\Debug\FileSorter.exe.config
+C:\git\FileSorter\FileSorter\obj\Debug\FileSorter.exe
+C:\git\FileSorter\FileSorter\obj\Debug\FileSorter.pdb
